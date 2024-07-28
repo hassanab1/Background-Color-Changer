@@ -1,0 +1,78 @@
+.border{
+    display: block;
+    /* background-color: black; */
+    width: max-content;
+    max-width: 50%;
+    margin:auto auto;
+    padding: 30px auto;
+    border: 2px solid black;
+    border-radius: 40px;
+    /* border-width: 5px; */
+}
+.Glob{
+    width: max-content;
+    padding: 25px 150px;
+    background-color: beige;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: black;
+    /* color: black; */
+}
+
+.TopScript{
+    display: block;
+    background-color: beige;
+    width: max-content;
+    padding: 10px 10px;
+    border-radius: 70px;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 300;
+}
+
+.FruitHeading{
+    margin: 0px;
+    color: rgb(0, 0, 0);
+    font-family: "DM Serif Display", serif;
+}
+.List{
+    font: 500;
+    color: rgb(0, 0, 0);
+}
+
+.InputTab{
+    color: rgb(255, 250, 250);
+    background-color: rgb(167, 203, 241);
+    border-radius: 500px;
+    border-width: 1px;
+    margin: 10px auto;
+    width: 200px;
+    height: 20px;
+    font-family: "Playfair Display", serif;
+    
+}
+.InputTab::-webkit-input-placeholder {
+    color: rgb(0, 0, 0);
+}
+
+.ButtonTab{
+    /* background-color: rgb(255, 255, 255); */
+    /* color: rgb(0, 0, 0); */
+    border-radius: 70px;
+    border-width: 0px;
+    font-family: "Playfair Display", serif;
+    width: 70px;
+    height: 25px;
+    align-content: end;
+    box-shadow: 0px 5px 10px rgb(101, 101, 101);
+}
+.colorChangerButton{
+    /* background-color: black; */
+    color: rgb(0, 0, 0);
+    border-radius: 70px;
+    width: 200px;
+    height: 35px;
+    border-width: 0px;
+
+    font-family: "Playfair Display", serif;
+    box-shadow: 0px 5px 10px rgb(101, 101, 101);
+}
