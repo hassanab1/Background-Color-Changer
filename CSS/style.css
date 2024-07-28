@@ -2,21 +2,21 @@
     display: block;
     /* background-color: black; */
     width: max-content;
-    max-width: 50%;
-    margin:auto auto;
-    padding: 30px auto;
+    max-width: 70%;
+    margin: auto auto;
+    padding: 15px;
     border: 2px solid black;
-    border-radius: 40px;
-    /* border-width: 5px; */
+    border-radius: 20px;
+    /* /* border-width: 5px; */
 }
 .Glob{
     width: max-content;
     padding: 25px 150px;
     background-color: beige;
-    border-radius: 10px;
+    border-radius: 20px;
     border-width: 10px;
     border-color: black;
-    /* color: black; */
+    /* /* color: black; */
 }
 
 .TopScript{
